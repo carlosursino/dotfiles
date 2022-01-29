@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carlos.ursino@hotmail.co.uk
+	name = Carlos Ursino
